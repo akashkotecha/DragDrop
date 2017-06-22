@@ -1,1 +1,58 @@
-[{"name" : "Ashwin", "age" : "20"},{"name" : "Abhinandan", "age" : "20"},{"name" : "Akash", "age" : "25"}]
+[  
+   {  
+      "M-Key":"Tile1",
+      "Name":"Food Sales",
+	    "Value":"7,312",
+	    "Suffix":"",
+      "Prefix":"$",
+      "PercentToGoal":"75%"
+   },
+   {  
+      "M-Key":"Tile2",
+      "Name":"Coke & Fries",
+      "Value":"8",
+      "Suffix":"%",
+      "Prefix":"",
+      "PercentToGoal":"60%"
+   },
+   {  
+      "M-Key":"Tile3",
+      "Name":"C. SAT",
+      "Value":"58",
+      "Suffix":"%",
+      "Prefix":"",
+      "PercentToGoal":"85%"
+   },
+   {  
+      "M-Key":"Tile4",
+      "Name":"# of Customers",
+      "Value":"72",
+      "Suffix":"",
+      "Prefix":"",
+      "PercentToGoal":"54%"
+   },
+   {  
+      "M-Key":"Tile5",
+      "Name":"Ambience",
+      "Value":"8",
+      "Suffix":"%",
+      "Prefix":"",
+      "PercentToGoal":"10%"
+   },
+   {  
+      "M-Key":"Tile6",
+      "Name":"Brand Value",
+      "Value":"72",
+      "Suffix":"",
+      "Prefix":"",
+      "PercentToGoal":"85%"
+   },
+   {  
+      "M-Key":"Tile7",
+      "Name":"Speed Of Service",
+      "Value":"6.5",
+      "Suffix":"",
+      "Prefix":"",
+      "PercentToGoal":"45%"
+   }
+]
