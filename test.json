@@ -5,7 +5,7 @@
 	    "Value":"7,312",
 	    "Suffix":"",
       "Prefix":"$",
-      "PercentToGoal":"75%"
+      "PercentToGoal":"75"
    },
    {  
       "M-Key":"Tile2",
@@ -13,7 +13,7 @@
       "Value":"8",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"60%"
+      "PercentToGoal":"60"
    },
    {  
       "M-Key":"Tile3",
@@ -21,7 +21,7 @@
       "Value":"58",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"85%"
+      "PercentToGoal":"85"
    },
    {  
       "M-Key":"Tile4",
@@ -29,7 +29,7 @@
       "Value":"72",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"54%"
+      "PercentToGoal":"54"
    },
    {  
       "M-Key":"Tile5",
@@ -37,7 +37,7 @@
       "Value":"8",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"10%"
+      "PercentToGoal":"10"
    },
    {  
       "M-Key":"Tile6",
@@ -45,7 +45,7 @@
       "Value":"72",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"85%"
+      "PercentToGoal":"85"
    },
    {  
       "M-Key":"Tile7",
@@ -53,6 +53,6 @@
       "Value":"6.5",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"45%"
+      "PercentToGoal":"45"
    }
 ]
