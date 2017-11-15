@@ -1,7 +1,7 @@
 [  
    {  
       "M-Key":"Tile1",
-      "Name":"Food Sales",
+      "Name":"FOOD AUV",
       "Value":"7,312",
       "Suffix":"",
       "Prefix":"$",
@@ -10,7 +10,7 @@
    },
    {  
       "M-Key":"Tile2",
-      "Name":"Coke & Fries",
+      "Name":"COKE & FRIES",
       "Value":"8",
       "Suffix":"%",
       "Prefix":"",
@@ -28,7 +28,7 @@
    },
    {  
       "M-Key":"Tile4",
-      "Name":"# of Customers",
+      "Name":"# OF CUSTOMERS",
       "Value":"72",
       "Suffix":"",
       "Prefix":"",
@@ -37,7 +37,7 @@
    },
    {  
       "M-Key":"Tile5",
-      "Name":"Ambience",
+      "Name":"AMBIANCE",
       "Value":"8",
       "Suffix":"%",
       "Prefix":"",
@@ -46,7 +46,7 @@
    },
    {  
       "M-Key":"Tile6",
-      "Name":"Brand Value",
+      "Name":"ACTUAL/THEO. COST",
       "Value":"72",
       "Suffix":"",
       "Prefix":"",
@@ -55,11 +55,21 @@
    },
    {  
       "M-Key":"Tile7",
-      "Name":"Speed Of Service",
+      "Name":"SPEED OF SERVICE",
       "Value":"6.5",
       "Suffix":"",
       "Prefix":"",
       "PercentToGoal":"45",
 	  "KPICorrelation":"1"
+   },
+   {  
+      "M-Key":"Tile8",
+      "Name":"LABOR / SALES",
+      "Value":"6.5",
+      "Suffix":"",
+      "Prefix":"",
+      "PercentToGoal":"28",
+	  "KPICorrelation":"1"
    }
+	
 ]
