@@ -2,10 +2,11 @@
    {  
       "M-Key":"Tile1",
       "Name":"Food Sales",
-	    "Value":"7,312",
-	    "Suffix":"",
+      "Value":"7,312",
+      "Suffix":"",
       "Prefix":"$",
-      "PercentToGoal":"75"
+      "PercentToGoal":"75",
+	  "KPICorrelation":"3"
    },
    {  
       "M-Key":"Tile2",
@@ -13,7 +14,8 @@
       "Value":"8",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"60"
+      "PercentToGoal":"60",
+	  "KPICorrelation":"3"
    },
    {  
       "M-Key":"Tile3",
@@ -21,7 +23,8 @@
       "Value":"58",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"85"
+      "PercentToGoal":"85",
+	  "KPICorrelation":"2"
    },
    {  
       "M-Key":"Tile4",
@@ -29,7 +32,8 @@
       "Value":"72",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"54"
+      "PercentToGoal":"54",
+	  "KPICorrelation":"2"
    },
    {  
       "M-Key":"Tile5",
@@ -37,7 +41,8 @@
       "Value":"8",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"10"
+      "PercentToGoal":"10",
+	  "KPICorrelation":"1"
    },
    {  
       "M-Key":"Tile6",
@@ -45,7 +50,8 @@
       "Value":"72",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"85"
+      "PercentToGoal":"85",
+	  "KPICorrelation":"1"
    },
    {  
       "M-Key":"Tile7",
@@ -53,6 +59,7 @@
       "Value":"6.5",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"45"
+      "PercentToGoal":"45",
+	  "KPICorrelation":"1"
    }
 ]
