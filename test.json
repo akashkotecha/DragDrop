@@ -5,7 +5,7 @@
       "Value":"7,312",
       "Suffix":"",
       "Prefix":"$",
-      "PercentToGoal":"75",
+      "Goal":"9500",
 	  "KPICorrelation":"3"
    },
    {  
@@ -14,7 +14,7 @@
       "Value":"8",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"60",
+      "Goal":"60",
 	  "KPICorrelation":"3"
    },
    {  
@@ -23,7 +23,7 @@
       "Value":"58",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"85",
+      "Goal":"85",
 	  "KPICorrelation":"2"
    },
    {  
@@ -32,7 +32,7 @@
       "Value":"72",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"54",
+      "Goal":"100",
 	  "KPICorrelation":"2"
    },
    {  
@@ -41,7 +41,7 @@
       "Value":"8",
       "Suffix":"%",
       "Prefix":"",
-      "PercentToGoal":"10",
+      "Goal":"10",
 	  "KPICorrelation":"1"
    },
    {  
@@ -50,7 +50,7 @@
       "Value":"72",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"85",
+      "Goal":"92",
 	  "KPICorrelation":"1"
    },
    {  
@@ -59,7 +59,7 @@
       "Value":"6.5",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"45",
+      "Goal":"12",
 	  "KPICorrelation":"1"
    },
    {  
@@ -68,7 +68,7 @@
       "Value":"6.5",
       "Suffix":"",
       "Prefix":"",
-      "PercentToGoal":"28",
+      "Goal":"28",
 	  "KPICorrelation":"1"
    }
 	
