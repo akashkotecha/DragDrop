@@ -78,6 +78,25 @@
       	"Goal":"28",
 	"KPICorrelation":"1",
       	"KPIType":"N"
+   },
+   {  
+      	"M-Key":"Tile9",
+      	"Name":"TICKET TIME",
+      	"Value":"40",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"30",
+	"KPICorrelation":"3",
+      	"KPIType":"P"
+   },
+   {  
+      	"M-Key":"Tile10",
+      	"Name":"BEVERAGE SALES",
+      	"Value":"90",
+      	"Suffix":"$",
+      	"Prefix":"",
+      	"Goal":"50",
+	"KPICorrelation":"2",
+      	"KPIType":"P"
    }
-	
 ]
