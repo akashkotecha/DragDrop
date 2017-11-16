@@ -2,10 +2,10 @@
    {  
       "M-Key":"Tile1",
       "Name":"FOOD AUV",
-      "Value":"12200",
+      "Value":"122000",
       "Suffix":"K",
       "Prefix":"$",
-      "Goal":"17000",
+      "Goal":"170000",
 	  "KPICorrelation":"3"
    },
    {  
