@@ -2,10 +2,10 @@
    {  
       "M-Key":"Tile1",
       "Name":"FOOD AUV",
-      "Value":"7,312",
-      "Suffix":"",
+      "Value":"12200",
+      "Suffix":"K",
       "Prefix":"$",
-      "Goal":"9500",
+      "Goal":"17000",
 	  "KPICorrelation":"3"
    },
    {  
@@ -20,8 +20,8 @@
    {  
       "M-Key":"Tile3",
       "Name":"C. SAT",
-      "Value":"58",
-      "Suffix":"%",
+      "Value":"72",
+      "Suffix":"",
       "Prefix":"",
       "Goal":"85",
 	  "KPICorrelation":"2"
@@ -29,19 +29,19 @@
    {  
       "M-Key":"Tile4",
       "Name":"# OF CUSTOMERS",
-      "Value":"72",
+      "Value":"720",
       "Suffix":"",
       "Prefix":"",
-      "Goal":"100",
+      "Goal":"1400",
 	  "KPICorrelation":"2"
    },
    {  
       "M-Key":"Tile5",
       "Name":"AMBIANCE",
-      "Value":"8",
+      "Value":"60",
       "Suffix":"%",
       "Prefix":"",
-      "Goal":"10",
+      "Goal":"85",
 	  "KPICorrelation":"1"
    },
    {  
