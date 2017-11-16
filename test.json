@@ -1,83 +1,83 @@
 [  
    {  
-      "M-Key":"Tile1",
-      "Name":"FOOD AUV",
-      "Value":"122000",
-      "Suffix":"K",
-      "Prefix":"$",
-      "Goal":"170000",
-      "KPICorrelation":"3",
-      "TileType":"R"
+      	"M-Key":"Tile1",
+      	"Name":"FOOD AUV",
+      	"Value":"122000",
+      	"Suffix":"K",
+      	"Prefix":"$",
+      	"Goal":"170000",
+      	"KPICorrelation":"3",
+      	"KPIType":"N"
    },
    {  
-      "M-Key":"Tile2",
-      "Name":"COKE & FRIES",
-      "Value":"8",
-      "Suffix":"%",
-      "Prefix":"",
-      "Goal":"60",
-	  "KPICorrelation":"3",
-      "TileType":"R"
+      	"M-Key":"Tile2",
+      	"Name":"COKE & FRIES",
+      	"Value":"8",
+      	"Suffix":"%",
+      	"Prefix":"",
+      	"Goal":"60",
+	"KPICorrelation":"3",
+      	"KPIType":"N"
    },
    {  
-      "M-Key":"Tile3",
-      "Name":"C. SAT",
-      "Value":"72",
-      "Suffix":"",
-      "Prefix":"",
-      "Goal":"85",
-	  "KPICorrelation":"2",
-      "TileType":"R"
+      	"M-Key":"Tile3",
+      	"Name":"C. SAT",
+      	"Value":"72",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"85",
+	"KPICorrelation":"2",
+      	"KPIType":"N"
    },
    {  
-      "M-Key":"Tile4",
-      "Name":"# OF CUSTOMERS",
-      "Value":"720",
-      "Suffix":"",
-      "Prefix":"",
-      "Goal":"1400",
-	  "KPICorrelation":"2",
-      "TileType":"R"
+      	"M-Key":"Tile4",
+      	"Name":"# OF CUSTOMERS",
+      	"Value":"720",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"1400",
+	"KPICorrelation":"2",
+      	"KPIType":"N"
    },
    {  
-      "M-Key":"Tile5",
-      "Name":"AMBIANCE",
-      "Value":"60",
-      "Suffix":"%",
-      "Prefix":"",
-      "Goal":"85",
-	  "KPICorrelation":"1",
-      "TileType":"R"
+      	"M-Key":"Tile5",
+      	"Name":"AMBIANCE",
+      	"Value":"60",
+      	"Suffix":"%",
+      	"Prefix":"",
+      	"Goal":"85",
+	"KPICorrelation":"1",
+      	"KPIType":"N"
    },
    {  
-      "M-Key":"Tile6",
-      "Name":"ACTUAL/THEO. COST",
-      "Value":"72",
-      "Suffix":"",
-      "Prefix":"",
-      "Goal":"92",
-	  "KPICorrelation":"1",
-      "TileType":"R"
+      	"M-Key":"Tile6",
+      	"Name":"ACTUAL/THEO. COST",
+      	"Value":"72",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"92",
+	"KPICorrelation":"1",
+      	"KPIType":"N"
    },
    {  
-      "M-Key":"Tile7",
-      "Name":"SPEED OF SERVICE",
-      "Value":"6.5",
-      "Suffix":"",
-      "Prefix":"",
-      "Goal":"12",
-	  "KPICorrelation":"1",
-      "TileType":"R"
+      	"M-Key":"Tile7",
+      	"Name":"SPEED OF SERVICE",
+      	"Value":"6.5",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"12",
+	"KPICorrelation":"1",
+      	"KPIType":"N"
    },
    {  
-      "M-Key":"Tile8",
-      "Name":"LABOR / SALES",
-      "Value":"6.5",
-      "Suffix":"",
-      "Prefix":"",
-      "Goal":"28",
-	  "KPICorrelation":"1",
-      "TileType":"R"
+      	"M-Key":"Tile8",
+      	"Name":"LABOR / SALES",
+      	"Value":"6.5",
+      	"Suffix":"",
+      	"Prefix":"",
+      	"Goal":"28",
+	"KPICorrelation":"1",
+      	"KPIType":"N"
    }
 	
 ]
