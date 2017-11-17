@@ -43,8 +43,8 @@
       	"M-Key":"Tile5",
       	"Name":"BEVERAGE SALES",
       	"Value":"90",
-      	"Suffix":"$",
-      	"Prefix":"",
+      	"Suffix":"",
+      	"Prefix":"$",
       	"Goal":"50",
 	"KPICorrelation":"2",
       	"KPIType":"P"
